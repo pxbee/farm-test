@@ -1,5 +1,3 @@
-require('./conf.js');
-
 const Web3 = require('web3');
 const BN = require('bn.js')
 const HoneyFarm = require("./contracts/HoneyFarm.json");
